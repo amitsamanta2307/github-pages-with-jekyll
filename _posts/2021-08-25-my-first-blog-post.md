@@ -1,0 +1,7 @@
+---
+title: "My First Blog Post"
+date: 2021-08-25
+---
+
+[2021-08-25]
+This is my first blog post
